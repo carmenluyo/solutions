@@ -1103,5 +1103,6 @@ form .form-control:focus {
 }
 
 .mapa{
+   height: 400px;
   width: 100%;
 }
